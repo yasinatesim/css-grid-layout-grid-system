@@ -1,3 +1,3 @@
-#### Bootstrap Grid Class İsimleri ile CSS Grid Layout Grid Sistemi
+# CSS Grid Layout Grid System with Bootstrap Grid Class Names
 
 [Demo](https://yasinatesim.github.io/css-grid-layout-grid-system/)
