@@ -321,24 +321,6 @@
   grid-column: span 12;
 }
 
-/* demo */
-
-.margin-top-15 {
-  margin-top: 15px;
-}
-
-.box {
-  background: #3273dc;
-  color: #fff;
-  padding: 20px;
-  font-size: 18px;
-  border-radius: 5px;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
